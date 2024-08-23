@@ -86,7 +86,7 @@ const homeData: home[] = [
             televisionCable: { name: "کنتور برق و آب و گاز", status: true }
         },
         image: ['/assets/image/Home/Dehkhoda/first.jpg', '/assets/image/Home/Dehkhoda/second.jpg', '/assets/image/Home/Dehkhoda/third.jpg', '/assets/image/Home/Dehkhoda/fourth.jpg', '/assets/image/Home/Dehkhoda/5.jpg'],
-        saler: { id: 1, name: "محمد علی محمدی", phone: "09121235667", email: "itteamiran@gmail.com", photo: '/assets/image/Person/person.png' },
+        saler: { id: 1, name: "محمد علی محمدی", phone: "09023493683", email: "itteamiran@gmail.com", photo: '/assets/image/Person/person.png' },
         description: `
         فروش فوق‌العاده ویلا:
         ۹۴۱ متر زمین 
@@ -158,7 +158,7 @@ const homeData: home[] = [
             televisionCable: { name: "صنعتی", status: false }
         },
         image: ['/assets/image/Home/first/1.jpg', '/assets/image/Home/first/2.jpg', '/assets/image/Home/first/3.jpg', '/assets/image/Home/first/4.jpg', '/assets/image/Home/first/5.jpg', '/assets/image/Home/first/6.jpg', '/assets/image/Home/first/7.jpg', '/assets/image/Home/first/8.jpg', '/assets/image/Home/first/9.jpg'],
-        saler: { id: 1, name: "محمد علی محمدی", phone: "09121235667", email: "itteamiran@gmail.com", photo: '/assets/image/Person/person.png' },
+        saler: { id: 1, name: "محمد علی محمدی", phone: "09023493683", email: "itteamiran@gmail.com", photo: '/assets/image/Person/person.png' },
         description: ` زمین شالیزاری 18000متر ،، رودخانه ، چاه نیمه عمیق و دور زمین دیوار کشی و فنس و دور رودخانه دارای پی ساختمان90الی 100 متری و دارای پروانه بهره برداری  و جاده کشی با نشست سپاه پاسداران تصویب و بودجه ی آن پرداخت گردیده 
    تبدیل به باغ ،و دارای زمینه ی  فعالیت پرورش درختان میوه ، درخت دانه های آجیلی ، محصولات ادویه ای و آجیلی و دارای سند دستدارمی و مورد تایید شورای محل و داری جواز ساخت و ساز مسکونی ‌،برق اختصاصیو مبلغ در نظر گفته شده برای فروش توافقی می‌باشد
         `,
@@ -217,7 +217,7 @@ const homeData: home[] = [
             televisionCable: { name: "کابل تلوزیون", status: false }
         },
         image: ['/assets/image/Home/project1/1.jpg', '/assets/image/Home/project1/2.jpg', '/assets/image/Home/project1/3.jpg'],
-        saler: { id: 1, name: "ابوالفضل صفایی", phone: "09918183139", email: "mh@gmail.com", photo: '/assets/image/Person/4.jpeg' },
+        saler: { id: 1, name: "ابوالفضل صفایی", phone: "09023493683", email: "mh@gmail.com", photo: '/assets/image/Person/4.jpeg' },
         description: `
         املاک به معنای دارایی‌های غیرمتحرکی است که شامل زمین، خانه، آپارتمان، ویلا، مغازه، دفتر کار و سایر اموالی است که قابلیت استفاده و بهره‌برداری برای افراد را دارا هستند. املاک به عنوان یک منبع سرمایه‌گذاری محسوب می‌شوند و بسیاری از افراد در جامعه به دنبال خرید یا فروش املاک هستند.
         
@@ -279,7 +279,7 @@ const homeData: home[] = [
             televisionCable: { name: "کابل تلوزیون", status: false }
         },
         image: ['/assets/image/Home/project2/1.jpg', '/assets/image/Home/project2/3.jpg', '/assets/image/Home/project2/6.jpg', '/assets/image/Home/project2/8.jpg', '/assets/image/Home/project2/7.jpg'],
-        saler: { id: 1, name: "سهیل صفایی", phone: "09918183139", email: "mh@gmail.com", photo: '/assets/image/Person/2.jpeg' },
+        saler: { id: 1, name: "سهیل صفایی", phone: "09023493683", email: "mh@gmail.com", photo: '/assets/image/Person/2.jpeg' },
         description: `
         املاک به معنای دارایی‌های غیرمتحرکی است که شامل زمین، خانه، آپارتمان، ویلا، مغازه، دفتر کار و سایر اموالی است که قابلیت استفاده و بهره‌برداری برای افراد را دارا هستند. املاک به عنوان یک منبع سرمایه‌گذاری محسوب می‌شوند و بسیاری از افراد در جامعه به دنبال خرید یا فروش املاک هستند.
         
@@ -341,7 +341,7 @@ const homeData: home[] = [
             televisionCable: { name: "کابل تلوزیون", status: false }
         },
         image: ['/assets/image/Home/project3/1.jpg', '/assets/image/Home/project3/2.jpg', '/assets/image/Home/project3/3.jpg',],
-        saler: { id: 1, name: "امین یزدانی", phone: "09918183139", email: "mh@gmail.com", photo: '/assets/image/Person/1.jpeg' },
+        saler: { id: 1, name: "امین یزدانی", phone: "09023493683", email: "mh@gmail.com", photo: '/assets/image/Person/1.jpeg' },
         description: `
         املاک به معنای دارایی‌های غیرمتحرکی است که شامل زمین، خانه، آپارتمان، ویلا، مغازه، دفتر کار و سایر اموالی است که قابلیت استفاده و بهره‌برداری برای افراد را دارا هستند. املاک به عنوان یک منبع سرمایه‌گذاری محسوب می‌شوند و بسیاری از افراد در جامعه به دنبال خرید یا فروش املاک هستند.
         
@@ -403,7 +403,7 @@ const homeData: home[] = [
             televisionCable: { name: "کابل تلوزیون", status: false }
         },
         image: ['/assets/image/Home/project4/2.jpg', '/assets/image/Home/project4/1.jpg', '/assets/image/Home/project4/3.jpg', '/assets/image/Home/project4/4.jpg',],
-        saler: { id: 1, name: "سامان محلاتی", phone: "09918183139", email: "mh@gmail.com", photo: '/assets/image/Person/5.jpg' },
+        saler: { id: 1, name: "سامان محلاتی", phone: "09023493683", email: "mh@gmail.com", photo: '/assets/image/Person/5.jpg' },
         description: `
         املاک به معنای دارایی‌های غیرمتحرکی است که شامل زمین، خانه، آپارتمان، ویلا، مغازه، دفتر کار و سایر اموالی است که قابلیت استفاده و بهره‌برداری برای افراد را دارا هستند. املاک به عنوان یک منبع سرمایه‌گذاری محسوب می‌شوند و بسیاری از افراد در جامعه به دنبال خرید یا فروش املاک هستند.
         
@@ -465,7 +465,7 @@ const homeData: home[] = [
             televisionCable: { name: "کابل تلوزیون", status: false }
         },
         image: ['/assets/image/Home/project5/2.jpg', '/assets/image/Home/project5/3.jpg', '/assets/image/Home/project5/4.jpg', '/assets/image/Home/project5/1.jpg',],
-        saler: { id: 1, name: "امیر نیازمند", phone: "09918183139", email: "mh@gmail.com", photo: '/assets/image/Person/5.jpeg' },
+        saler: { id: 1, name: "امیر نیازمند", phone: "09023493683", email: "mh@gmail.com", photo: '/assets/image/Person/5.jpeg' },
         description: `
         املاک به معنای دارایی‌های غیرمتحرکی است که شامل زمین، خانه، آپارتمان، ویلا، مغازه، دفتر کار و سایر اموالی است که قابلیت استفاده و بهره‌برداری برای افراد را دارا هستند. املاک به عنوان یک منبع سرمایه‌گذاری محسوب می‌شوند و بسیاری از افراد در جامعه به دنبال خرید یا فروش املاک هستند.
         
@@ -527,7 +527,7 @@ const homeData: home[] = [
             televisionCable: { name: "کابل تلوزیون", status: false }
         },
         image: ['/assets/image/Home/project6/1.jpg', '/assets/image/Home/project6/2.jpg', '/assets/image/Home/project6/3.jpg', '/assets/image/Home/project6/4.jpg',],
-        saler: { id: 1, name: "مهدی رحمانی", phone: "09918183139", email: "mh@gmail.com", photo: '/assets/image/Person/1.jpeg' },
+        saler: { id: 1, name: "مهدی رحمانی", phone: "09023493683", email: "mh@gmail.com", photo: '/assets/image/Person/1.jpeg' },
         description: `
         املاک به معنای دارایی‌های غیرمتحرکی است که شامل زمین، خانه، آپارتمان، ویلا، مغازه، دفتر کار و سایر اموالی است که قابلیت استفاده و بهره‌برداری برای افراد را دارا هستند. املاک به عنوان یک منبع سرمایه‌گذاری محسوب می‌شوند و بسیاری از افراد در جامعه به دنبال خرید یا فروش املاک هستند.
         
@@ -589,7 +589,7 @@ const homeData: home[] = [
             televisionCable: { name: "کابل تلوزیون", status: false }
         },
         image: ['/assets/image/Home/project7/1.jpg', '/assets/image/Home/project7/2.jpg', '/assets/image/Home/project7/3.jpg',],
-        saler: { id: 1, name: "حسین سالاری", phone: "09918183139", email: "mh@gmail.com", photo: '/assets/image/Person/4.jpeg' },
+        saler: { id: 1, name: "حسین سالاری", phone: "09023493683", email: "mh@gmail.com", photo: '/assets/image/Person/4.jpeg' },
         description: `
         املاک به معنای دارایی‌های غیرمتحرکی است که شامل زمین، خانه، آپارتمان، ویلا، مغازه، دفتر کار و سایر اموالی است که قابلیت استفاده و بهره‌برداری برای افراد را دارا هستند. املاک به عنوان یک منبع سرمایه‌گذاری محسوب می‌شوند و بسیاری از افراد در جامعه به دنبال خرید یا فروش املاک هستند.
         
@@ -651,7 +651,7 @@ const homeData: home[] = [
             televisionCable: { name: "کابل تلوزیون", status: false }
         },
         image: ['/assets/image/Home/project8/1.jpg', '/assets/image/Home/project8/2.jpg', '/assets/image/Home/project8/3.jpg',],
-        saler: { id: 1, name: "رضا دولتی", phone: "09918183139", email: "mh@gmail.com", photo: '/assets/image/Person/5.jpeg' },
+        saler: { id: 1, name: "رضا دولتی", phone: "09023493683", email: "mh@gmail.com", photo: '/assets/image/Person/5.jpeg' },
         description: `
         املاک به معنای دارایی‌های غیرمتحرکی است که شامل زمین، خانه، آپارتمان، ویلا، مغازه، دفتر کار و سایر اموالی است که قابلیت استفاده و بهره‌برداری برای افراد را دارا هستند. املاک به عنوان یک منبع سرمایه‌گذاری محسوب می‌شوند و بسیاری از افراد در جامعه به دنبال خرید یا فروش املاک هستند.
         
@@ -713,7 +713,7 @@ const homeData: home[] = [
             televisionCable: { name: "کابل تلوزیون", status: false }
         },
         image: ['/assets/image/Home/project9/1.jpg', '/assets/image/Home/project9/2.jpg', '/assets/image/Home/project9/3.jpg', '/assets/image/Home/project9/4.jpg',],
-        saler: { id: 1, name: "محمد رضایی", phone: "09918183139", email: "mh@gmail.com", photo: '/assets/image/Person/5.jpg' },
+        saler: { id: 1, name: "محمد رضایی", phone: "09023493683", email: "mh@gmail.com", photo: '/assets/image/Person/5.jpg' },
         description: `
         املاک به معنای دارایی‌های غیرمتحرکی است که شامل زمین، خانه، آپارتمان، ویلا، مغازه، دفتر کار و سایر اموالی است که قابلیت استفاده و بهره‌برداری برای افراد را دارا هستند. املاک به عنوان یک منبع سرمایه‌گذاری محسوب می‌شوند و بسیاری از افراد در جامعه به دنبال خرید یا فروش املاک هستند.
         
@@ -775,7 +775,7 @@ const homeData: home[] = [
             televisionCable: { name: "کابل تلوزیون", status: false }
         },
         image: ['/assets/image/Home/project10/1.jpg', '/assets/image/Home/project10/2.jpg', '/assets/image/Home/project10/3.jpg', '/assets/image/Home/project10/4.jpg',],
-        saler: { id: 1, name: "عرفان پوری", phone: "09918183139", email: "mh@gmail.com", photo: '/assets/image/Person/5.jpeg' },
+        saler: { id: 1, name: "عرفان پوری", phone: "09023493683", email: "mh@gmail.com", photo: '/assets/image/Person/5.jpeg' },
         description: `
         املاک به معنای دارایی‌های غیرمتحرکی است که شامل زمین، خانه، آپارتمان، ویلا، مغازه، دفتر کار و سایر اموالی است که قابلیت استفاده و بهره‌برداری برای افراد را دارا هستند. املاک به عنوان یک منبع سرمایه‌گذاری محسوب می‌شوند و بسیاری از افراد در جامعه به دنبال خرید یا فروش املاک هستند.
         
@@ -837,7 +837,7 @@ const homeData: home[] = [
             televisionCable: { name: "کابل تلوزیون", status: false }
         },
         image: ['/assets/image/Home/project11/1.jpg', '/assets/image/Home/project11/2.jpg', '/assets/image/Home/project11/3.jpg', '/assets/image/Home/project11/4.jpg',],
-        saler: { id: 1, name: "امین جعفری", phone: "09918183139", email: "mh@gmail.com", photo: '/assets/image/Person/1.jpeg' },
+        saler: { id: 1, name: "امین جعفری", phone: "09023493683", email: "mh@gmail.com", photo: '/assets/image/Person/1.jpeg' },
         description: `
         املاک به معنای دارایی‌های غیرمتحرکی است که شامل زمین، خانه، آپارتمان، ویلا، مغازه، دفتر کار و سایر اموالی است که قابلیت استفاده و بهره‌برداری برای افراد را دارا هستند. املاک به عنوان یک منبع سرمایه‌گذاری محسوب می‌شوند و بسیاری از افراد در جامعه به دنبال خرید یا فروش املاک هستند.
         

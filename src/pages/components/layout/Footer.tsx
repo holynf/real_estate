@@ -21,9 +21,9 @@ const Footer = () => {
                 <div>
                     <h3 className='text-lg text-white-100'>تماس با ما</h3>
                     <ul className='text-sm py-2 text-zinc-300 leading-7 flex flex-col gap-1'>
-                        <li>itteamiran@gmail.com</li>
-                        <li>ایران، تهران، ونک، نبش گاندی شمالی</li>
-                        <li>09121235667</li>
+                        <li>abolfazlsf2112@gmail.com</li>
+                        <li>ایران، تهران</li>
+                        <li>09023493683</li>
                     </ul>
                 </div>
                 <div>
@@ -44,9 +44,9 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <div className='bg-[#1a1a38] py-6 px-4 text-center leading-7 text-white-200 text-sm'>
-                <h3>تمامی حقوق این سایت برای الوطراحی می‌باشد</h3>
-            </div>
+            {/*<div className='bg-[#1a1a38] py-6 px-4 text-center leading-7 text-white-200 text-sm'>*/}
+            {/*    <h3>تمامی حقوق این سایت برای الوطراحی می‌باشد</h3>*/}
+            {/*</div>*/}
         </footer>
     );
 };

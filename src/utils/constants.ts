@@ -57,20 +57,20 @@ export const advertise = [
 
 // Customers 
 export const customers : user[] = [
-    { id: 3, photo: '/assets/image/Person/5.jpeg', name: "ابوالفضل صفایی", phone: "09102133212" , job: "برنامه نویس", comment: "مشاور وی آیپی املاک تجربه‌ای عالی در خرید خانه کسب کردم. مشاورین این سازمان بسیار حرفه‌ای و دقیق هستن ." },
-    { id: 1, photo: '/assets/image/Person/4.jpeg', name: "علی محمدی", phone: "09918183139" , job: "طراح", comment: "من به تازگی یک خانه از این مشاور املاک خریداری کردم و بسیار راضی هستم. خدمات حرفه‌ای و مشاور همراه این سازمان در تصمیم گیری بهتر به من بسیار کمک کرد." },
-    { id: 2, photo: '/assets/image/Person/2.jpeg', name: "یونس نیازی" , phone: "09123456754" , job: "مدیر فروش", comment: "با این مشاور املاک تجربه بسیار خوبی داشتم. این سازمان با دقت به نیاز‌های من توجه کرد و با توجه به نیازهای من خانه‌ای مناسب را پیدا کرد." },
-    { id: 4, photo: '/assets/image/Person/1.jpeg', name: "رضا حسینی", phone: "09192124213" , job: "طراح رابط کاربری", comment: "وی آیپی املاک توانست خانه‌ای را برای من پیدا کند که به طور کامل با نیاز‌های من همخوانی دارد. مشاورین بسیار حرفه‌ای و صبور هستن." },
+    { id: 3, photo: '/assets/image/Person/5.jpeg', name: "ابوالفضل صفایی", phone: "09023493683" , job: "برنامه نویس", comment: "مشاور وی آیپی املاک تجربه‌ای عالی در خرید خانه کسب کردم. مشاورین این سازمان بسیار حرفه‌ای و دقیق هستن ." },
+    { id: 1, photo: '/assets/image/Person/4.jpeg', name: "علی محمدی", phone: "09023493683" , job: "طراح", comment: "من به تازگی یک خانه از این مشاور املاک خریداری کردم و بسیار راضی هستم. خدمات حرفه‌ای و مشاور همراه این سازمان در تصمیم گیری بهتر به من بسیار کمک کرد." },
+    { id: 2, photo: '/assets/image/Person/2.jpeg', name: "یونس نیازی" , phone: "09023493683" , job: "مدیر فروش", comment: "با این مشاور املاک تجربه بسیار خوبی داشتم. این سازمان با دقت به نیاز‌های من توجه کرد و با توجه به نیازهای من خانه‌ای مناسب را پیدا کرد." },
+    { id: 4, photo: '/assets/image/Person/1.jpeg', name: "رضا حسینی", phone: "09023493683" , job: "طراح رابط کاربری", comment: "وی آیپی املاک توانست خانه‌ای را برای من پیدا کند که به طور کامل با نیاز‌های من همخوانی دارد. مشاورین بسیار حرفه‌ای و صبور هستن." },
 ]
 
 // Blogs
 export const blogs : blog[] = [
-    {id: 1 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/CByW6RFCj8WcssB/preview" , title: 'راهنمای خرید و فروش املاک : نکاتی که باید در نظر داشت' , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09918183139"} , time: "۹ اردیبهشت ۱۳۹۸"} ,
-    {id: 2 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/57wxYMd64pepMcd/preview" , title: 'املاک تجاری: راهنمای کامل برای سرمایه گذاران' , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09918183139"} , time: "۹ اسفند ۱۳۹۸"} ,
-    {id: 3 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/KHy26pFDF5ca7Mj/preview" , title: "املاک و قوانین آن : آشنایی با حقوق و قوانین در خصوص خرید و فروش املاک" , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09918183139"} , time: "۹ آذر ۱۳۹۸"} ,
-    {id: 4 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/7qDCG9kQoZH5mpi/preview" , title: 'املاک و مستغلات: راهنمایی برای اجاره و مدیریت' , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09918183139"} , time: "۹ اسفند ۱۳۹۸"} ,
-    {id: 5 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/zjB49L8KWkkqMwx/preview" , title: 'نکاتی برای خرید و فروش املاک در بازار فعلی' , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09918183139"} , time: "۹ تیر ۱۳۹۸"} ,
-    {id: 6 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/Z6TnT2c7AZjrw5B/preview" , title: 'روش‌های سودآور برای سرمایه گذاری در بازار املاک' , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09918183139"} , time: "۹ اسفند ۱۳۹۸"} ,
+    {id: 1 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/CByW6RFCj8WcssB/preview" , title: 'راهنمای خرید و فروش املاک : نکاتی که باید در نظر داشت' , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09023493683"} , time: "۹ اردیبهشت ۱۳۹۸"} ,
+    {id: 2 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/57wxYMd64pepMcd/preview" , title: 'املاک تجاری: راهنمای کامل برای سرمایه گذاران' , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09023493683"} , time: "۹ اسفند ۱۳۹۸"} ,
+    {id: 3 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/KHy26pFDF5ca7Mj/preview" , title: "املاک و قوانین آن : آشنایی با حقوق و قوانین در خصوص خرید و فروش املاک" , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09023493683"} , time: "۹ آذر ۱۳۹۸"} ,
+    {id: 4 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/7qDCG9kQoZH5mpi/preview" , title: 'املاک و مستغلات: راهنمایی برای اجاره و مدیریت' , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09023493683"} , time: "۹ اسفند ۱۳۹۸"} ,
+    {id: 5 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/zjB49L8KWkkqMwx/preview" , title: 'نکاتی برای خرید و فروش املاک در بازار فعلی' , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09023493683"} , time: "۹ تیر ۱۳۹۸"} ,
+    {id: 6 , type: "اپارتمان" , photo: "https://cloud.avalamozesh.com/s/Z6TnT2c7AZjrw5B/preview" , title: 'روش‌های سودآور برای سرمایه گذاری در بازار املاک' , author: {id: 1 , name: "ابوالفضل صفایی" , photo: "https://cloud.avalamozesh.com/s/ryRZepZgaQY84Ji/preview" , phone: "09023493683"} , time: "۹ اسفند ۱۳۹۸"} ,
 ]
 
 //Shematics

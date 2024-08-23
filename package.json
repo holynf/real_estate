@@ -1,0 +1,43 @@
+{
+  "name": "amlak-nextjs",
+  "version": "0.1.0",
+  "title": "وی آی پی املاک: منزل رویاییتان را پیدا کنید",
+  "description": "به وی آی پی املاک، جایی که رویاهای خرید و فروش املاک و زمین به واقعیت تبدیل می‌شوند، خوش آمدید. ما با افتخار به شما کمک می‌کنیم تا خانه‌ی رویایی خود را پیدا کنید یا ملک خود را با قدرت بفروشید.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@headlessui/react": "^1.7.17",
+    "@mui/icons-material": "^5.14.6",
+    "@mui/material": "^5.14.6",
+    "@types/node": "20.5.6",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.15",
+    "jss-rtl": "^0.3.0",
+    "leaflet": "^1.9.4",
+    "next": "13.4.19",
+    "postcss": "8.4.28",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "react-player": "^2.12.0",
+    "redux": "^4.2.1",
+    "stylis": "^4.3.0",
+    "stylis-plugin-rtl": "^2.1.1",
+    "swiper": "^10.2.0",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.2.2",
+    "video-react": "^0.16.0"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.3",
+    "@types/stylis": "^4.2.0",
+    "@types/video-react": "^0.15.1"
+  }
+}
